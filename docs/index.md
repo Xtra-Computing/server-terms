@@ -37,4 +37,12 @@ and academic work in the Xtra Computing Group. Start with the pages below.
 
     [:octicons-arrow-right-24: Read the terms](terms.md)
 
+-   :material-bullhorn-outline:{ .lg .middle } **Server News**
+
+    ---
+
+    Maintenance windows, outages, policy changes, and service notices.
+
+    [:octicons-arrow-right-24: Read server news](news/index.md)
+
 </div>

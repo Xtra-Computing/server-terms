@@ -35,4 +35,12 @@ Xtra Computing 服务器为 Xtra Computing 研究组的科研与学术工作提�
 
     [:octicons-arrow-right-24: 阅读使用条款](terms.md)
 
+-   :material-bullhorn-outline:{ .lg .middle } **服务器通知**
+
+    ---
+
+    维护窗口、故障、政策变更及其他服务公告。
+
+    [:octicons-arrow-right-24: 查看服务器通知](news/index.md)
+
 </div>

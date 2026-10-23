@@ -59,6 +59,9 @@ plugins:
             Rootless Docker (deprecated): Rootless Docker（已停用）
             Network: 网络
             Disk: 磁盘
+            News: 服务器通知
+            Archive: 通知归档
+            "2026-10-06 — xtrah100 maintenance": "2026-10-06 — xtrah100 维护"
 
   - git-revision-date-localized:
       type: date
@@ -73,6 +76,9 @@ nav:
           - Rootless Docker (deprecated): docker.md
       - Network: network.md
       - Disk: disk.md
+  - News:
+      - Archive: news/index.md
+      - "2026-10-06 — xtrah100 maintenance": news/2026-10-06-xtrah100-maintenance.md
   - Methodology: methodology.md
   - Terms:
       - Terms of Use: terms.md
