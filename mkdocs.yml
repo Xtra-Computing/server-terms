@@ -63,6 +63,13 @@ plugins:
             Archive: 通知归档
             "2026-10-06 — xtrah100 maintenance": "2026-10-06 — xtrah100 维护"
             "2026-09-22 — Docker migration": "2026-09-22 — Docker 迁移"
+            "2026-09-12 — xtrah100 storage cleanup": "2026-09-12 — xtrah100 磁盘空间清理"
+            "2026-09-10 — xtrah200 reboot at 14:00: two GPUs with firmware faults": "2026-09-10 — xtrah200 14:00 重启：两块 GPU 固件故障"
+            "2026-09-03 — xtra3090 reboot at 17:30: GPU 1 disconnected from PCIe": "2026-09-03 — xtra3090 17:30 重启：GPU 1 从 PCIe 总线掉线"
+            "2026-08-12 — xtrah200 reboot at 13:30: all four GPUs with firmware faults": "2026-08-12 — xtrah200 13:30 重启：四块 GPU 固件故障"
+            "2026-08-11 — xtrah200 reboot at 14:45: GPU0 failure": "2026-08-11 — xtrah200 14:45 重启：GPU0 故障"
+            "2026-07-31 — xtrah200 offline around 00:20 due to OOM": "2026-07-31 — xtrah200 因 OOM 于 00:20 左右离线"
+            "2026-05-22 — xtrah200 restart at 14:00: GPU driver version mismatch": "2026-05-22 — xtrah200 14:00 重启：GPU 驱动版本不匹配"
 
   - git-revision-date-localized:
       type: date
@@ -81,6 +88,13 @@ nav:
       - Archive: news/index.md
       - "2026-10-06 — xtrah100 maintenance": news/2026-10-06-xtrah100-maintenance.md
       - "2026-09-22 — Docker migration": news/2026-09-22-docker-deprecation-apptainer-migration.md
+      - "2026-09-12 — xtrah100 storage cleanup": news/2026-09-12-xtrah100-storage-cleanup.md
+      - "2026-09-10 — xtrah200 reboot at 14:00: two GPUs with firmware faults": news/2026-09-10-xtrah200-firmware-fault-reboot.md
+      - "2026-09-03 — xtra3090 reboot at 17:30: GPU 1 disconnected from PCIe": news/2026-09-03-xtra3090-pcie-fault-reboot.md
+      - "2026-08-12 — xtrah200 reboot at 13:30: all four GPUs with firmware faults": news/2026-08-12-xtrah200-firmware-fault-reboot.md
+      - "2026-08-11 — xtrah200 reboot at 14:45: GPU0 failure": news/2026-08-11-xtrah200-gpu0-failure-reboot.md
+      - "2026-07-31 — xtrah200 offline around 00:20 due to OOM": news/2026-07-31-xtrah200-oom-outage.md
+      - "2026-05-22 — xtrah200 restart at 14:00: GPU driver version mismatch": news/2026-05-22-xtrah200-driver-mismatch-reboot.md
   - Methodology: methodology.md
   - Terms:
       - Terms of Use: terms.md
