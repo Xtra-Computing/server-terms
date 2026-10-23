@@ -7,3 +7,4 @@
 | 日期 | 通知 |
 |------|------|
 | 2026-10-06 | [计划维护：xtrah100（2026-10-09 周五 14:00–17:00 新加坡时间）](2026-10-06-xtrah100-maintenance.md) |
+| 2026-09-22 | [Docker 停用及 Apptainer 迁移](2026-09-22-docker-deprecation-apptainer-migration.md) |

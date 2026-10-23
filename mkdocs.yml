@@ -62,6 +62,7 @@ plugins:
             News: 服务器通知
             Archive: 通知归档
             "2026-10-06 — xtrah100 maintenance": "2026-10-06 — xtrah100 维护"
+            "2026-09-22 — Docker migration": "2026-09-22 — Docker 迁移"
 
   - git-revision-date-localized:
       type: date
@@ -79,6 +80,7 @@ nav:
   - News:
       - Archive: news/index.md
       - "2026-10-06 — xtrah100 maintenance": news/2026-10-06-xtrah100-maintenance.md
+      - "2026-09-22 — Docker migration": news/2026-09-22-docker-deprecation-apptainer-migration.md
   - Methodology: methodology.md
   - Terms:
       - Terms of Use: terms.md
